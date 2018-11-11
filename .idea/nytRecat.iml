@@ -8,5 +8,17 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/express" level="application" />
+    <orderEntry type="library" name="axios" level="application" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="firebase" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="material" level="application" />
+    <orderEntry type="library" name="materialize" level="application" />
+    <orderEntry type="library" name="moment" level="application" />
+    <orderEntry type="library" name="p5" level="application" />
+    <orderEntry type="library" name="p5.dom" level="application" />
+    <orderEntry type="library" name="parallax" level="application" />
+    <orderEntry type="library" name="three" level="application" />
   </component>
 </module>
